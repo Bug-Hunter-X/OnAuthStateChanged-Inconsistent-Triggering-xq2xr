@@ -1,0 +1,1 @@
+The Firebase SDK's `onAuthStateChanged` listener might not trigger if the user's authentication state changes due to an internal Firebase operation, such as token refresh or user account modification by an admin.
